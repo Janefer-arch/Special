@@ -1,0 +1,21 @@
+# A code to celebrate your love
+import time
+
+print("💖 Here's a little something for you, my love 💖\n")
+time.sleep(1)
+
+print("*************************************")
+print("           You + Me = Forever        ")
+print("*************************************\n")
+time.sleep(1)
+
+print("You're my favorite person, my joy, and my partner in everything. 💕")
+time.sleep(2)
+
+print("\nEvery day with you feels like magic. 🌟")
+time.sleep(2)
+
+print("\nTogether, we can conquer the world! 🌍")
+time.sleep(2)
+
+print("\nThank you for being mine. I love you! ❤️")
